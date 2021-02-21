@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+
+body {
+  background-color: blanchedalmond;
+}
+
+img {
+  position: absolute;
+  left: 44%;
+}
+
+.borderBox {
+  background-color: whitesmoke;
+  border: solid 3px black;
+  padding: 5% 10% 10% 10%;
+  display: inline-block;
+  margin: 5% 10% 5% 10%;
+  width: 60%;
+}
+
+.gametitle {
+  text-align: center;
+  margin-top: 15%;
+  font-family: "Luckiest Guy", cursive;
+  font-size: 35px;
+}
+
+.titleCode {
+  font-family: "Overpass Mono", monospace;
+  font-size: large;
+  font-style: italic;
+}
+
+#beginGameb {
+  margin-left: 40%;
+  font-weight: bold;
+  width: 20%;
+  padding: 10px 10px 10px 10px;
+}
+
+.gamebox {
+  margin: 5% 20% 0 20%;
+  border: solid 2px black;
+  padding: 10px 10px 10px 10px;
+  background-color: black;
+  color: whitesmoke;
+  width: 60%;
+}
+
+#fishy {
+  position: relative;
+  left: 20%;
+  right: 20%;
+}
+
+.gameContent {
+  font-family: "Overpass Mono", monospace;
+  font-size: medium;
+}
+
+.gameControls {
+  text-align: center;
+  margin: 30px;
+}
+
+footer {
+  font-family: "Overpass Mono", monospace;
+  background-color: #000000;
+  color: whitesmoke;
+  padding: 10px 20px 10px 20px;
+  width: fit-content;
+  margin-left: 40%;
+  font-weight: bold;
+  width: 20%;
+  text-align: center;
+}
+
+.author {
+  font-style: italic;
+}
