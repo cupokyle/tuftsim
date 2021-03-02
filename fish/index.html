@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
     <script src="script.js" async></script>
-    <script src="scenes.js" async></script>
   </head>
   <body>
     <div class="borderBox">
@@ -45,13 +44,21 @@
         </p>
       </div>
       <div class="gameControls">
-        <button id="choice1" onclick="leftProgress(scenepack1)">
+        <button id="choice1" onclick="progressLeft()">
           <h4 id="choice1text">Back</h4>
         </button>
-        <button id="choice2" onclick="rightProgress(scenepack1)">
+        <button id="choice2" onclick="progressRight()">
           <h4 id="choice2text">Next</h4>
         </button>
       </div>
+    </div>
+    <div>
+      <p id="tagline">
+        <em
+          >Do you have what it takes to get <br />out of going fishing with
+          Dad?</em
+        >
+      </p>
     </div>
     <footer>
       A text-based game<br /><span class="author">by Howie Co.</span>

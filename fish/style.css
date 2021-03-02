@@ -64,6 +64,14 @@ img {
   margin: 30px;
 }
 
+#tagline {
+  color: black;
+  font-family: "Overpass Mono", monospace;
+  text-align: center;
+  position: relative;
+  bottom: 225px;
+}
+
 footer {
   font-family: "Overpass Mono", monospace;
   background-color: #000000;
@@ -78,4 +86,9 @@ footer {
 
 .author {
   font-style: italic;
+}
+
+#choice1,
+#choice2 {
+  visibility: hidden;
 }
