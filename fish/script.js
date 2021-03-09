@@ -8,19 +8,19 @@ class Pack {
 }
 
 let scenepack1 = new Pack(
-  "It's the first day of Summer.<br>You just finished Grade 8 and<br>you can't wait to start the summer<br>off right by going to Rachel Trinton's Epic Pool Party.<br>You wake up and head downstairs.<br>The plan is to spend the day at<br>Malcolm's before heading to the <br>big party.",
+  "It's the first day of Summer.<br>You just finished Grade 8 and<br>you can't wait to start the summer<br>off right by going to Rachel Trinton's Epic Pool Party.<br>You wake up and head downstairs.",
   "Eat Breakfast",
   "Skip Breakfast",
   "1"
 );
 let scenepack11 = new Pack(
-  "You check your phone. It's a text from Harry.<br><em>Hey man, when are you coming over today?</em><br> As you read it, your bedroom door bursts open. Your dad comes plowing in dressed head to toe in his navy green and beige camping gear. <em>Son! Get up! I'm taking you fishing today, let's go!</em><br> You look back to your phone and text Harry,",
-  "<em>Not sure yet, I'll let you know.</em>",
-  "<em>Sorry man, I can't.</em>",
+  "You pour yourself a bowl of Oatmeal and start to munch it up. While you're eating your dad comes up from the basement with a tackle box. He sees you and says <em>Oh good, you decided to fish with your old man. Smart choice. I'll grab your fishing gear!</em> He heads out the front door to load the car.",
+  "Go out and confront him about fishing",
+  "Find somewhere to hide",
   "11"
 );
 let scenepack12 = new Pack(
-  "You decide to skip breakfast so you can get to Malcolm's sooner. As you're heading out the door, you notice the car's running. You see your dad loading fishing gear into the trunk.<em>Oh hey Sport! You're coming fishing today? Great! I've got your gear right here. You should really go get your fishing hat though. Sun's hot today!</em>",
+  "You decide to skip breakfast so you can head to the mall and get new swimshorts. As you're heading out the door, you notice the car's running. You see your dad loading fishing gear into the trunk.<em>Oh hey Sport! You're coming fishing today? Great! I've got your gear right here. You should really go get your fishing hat though. Sun's hot today!</em>",
   "Tell him you have other plans",
   "Agree to go fishing",
   "12"
@@ -32,9 +32,9 @@ let scenepack111 = new Pack(
   "111"
 );
 let scenepack112 = new Pack(
-  "<em>Other plans?! Hah! What could be more fun than this! A boat, water, fish, the whole bingo bango! Get your fishing hat, let's go. Gotta get there before the river runs empty, son.</em>",
-  "Get your fishing hat",
-  "Run!",
+  "You decide not to confront him at all and that your best course of action will be to hide out somewhere until your dad leaves.",
+  "Go to your room",
+  "Find another hiding spot",
   "112"
 );
 let scenepack121 = new Pack(
@@ -59,15 +59,15 @@ let scenepack1112 = new Pack(
   "1112"
 );
 let scenepack1121 = new Pack(
-  "this is the content for 1121",
-  "peach",
-  "daisy",
+  "You decide to just go back to your room and lock the door until he leaves. Looking out your bedroom window you see your father all ready to go, sitting in the driver's seat huffing and puffing as he thinks you're making him late for fishing.",
+  "Keep Waiting",
+  "Tell him you don't want to fish now",
   "1121"
 );
 let scenepack1122 = new Pack(
-  "this is the content for 1122",
-  "peach",
-  "daisy",
+  "He'd easily find you in your bedroom. Better look for somewhere else to hide.",
+  "Go to the Basement",
+  "Pull the attic drawstring",
   "1122"
 );
 
@@ -120,27 +120,27 @@ let scenepack11122 = new Pack(
   "11122"
 );
 let scenepack11211 = new Pack(
-  "this is the content for 11211",
-  "peach",
-  "daisy",
+  "After a short while, he begins banging on your bedroom door. <em>Come on, Son. It's time for fishing. Let's GO!</em>",
+  "Ignore him",
+  "Open the door",
   "11211"
 );
 let scenepack11212 = new Pack(
-  "this is the content for 11212",
-  "peach",
-  "daisy",
+  "WARNING: You've already made him wait this long. Are you sure this is what you want to do? You've seen the state he's in, right? Last chance: Do you want to tell him you aren't going now?",
+  "Yes, tell him",
+  "Okay, maybe not",
   "11212"
 );
 let scenepack11221 = new Pack(
-  "this is the content for 11221",
-  "peach",
-  "daisy",
+  "You scamper down into the basement. It's just one big-ass room full of random storage. On your left you see a large navy blue duffel bag you could hide in. On your right... what? There's a full-sized wooden coffin leaning against the wall.",
+  "Hide in the duffel",
+  "Open the coffin",
   "11221"
 );
 let scenepack11222 = new Pack(
-  "this is the content for 11222",
-  "peach",
-  "daisy",
+  "You pull the attic drawstring and a cloud of dust surrounds you as a flight of steps descends from the ceiling.  You climb up and pull the steps back into their resting place.",
+  "Just sit there",
+  "Scrounge around",
   "11222"
 );
 let scenepack12111 = new Pack(
@@ -156,7 +156,7 @@ let scenepack12112 = new Pack(
   "12112"
 );
 let scenepack12121 = new Pack(
-  "Not the most athletic middle-aged man, your Dad chases after you huffing, <em>You little shit! I'm going to get you! If I have to force you to fish with me, <strong>I fucking will!</strong></em> As you pass a hedge a woman with a baby stroller pokes out right in front of you.",
+  "Not the most athletic middle-aged man, your Dad chases after you huffing, <em>You little shit! I'm going to get you! If I have to force you to fish with me, <strong>I fucking will!</strong></em> As you pass a hedge a woman with a baby stroller steps out right in front of you.",
   "Jump it!",
   "Stop!",
   "12121"
@@ -240,51 +240,51 @@ let scenepack111222 = new Pack(
   "111222"
 );
 let scenepack112111 = new Pack(
-  "this is the content for 112111",
-  "peach",
-  "daisy",
+  "You ignore his vicious knocks. Eventually you hear the sound of his power drill. You don't have much time before the door's off it's hinges.",
+  "Wait it out",
+  "Escape through window",
   "112111"
 );
 let scenepack112112 = new Pack(
-  "this is the content for 112112",
-  "peach",
-  "daisy",
+  "You open the door to a flurry of droll-smattering screams, <em>WHAT TOOK YOU SO LONG?! IT'S ALMOST NOON! LET'S FUCKING GO!</em>",
+  "Cry",
+  "Kill him",
   "112112"
 );
 let scenepack112121 = new Pack(
-  "this is the content for 112121",
-  "peach",
-  "daisy",
+  "You've decided to tell him that you no longer feel like going fishing. You can now see him slamming his head against the steering wheel as he waits for you to get in the car. The horn is blaring, your phone is buzzing like crazy.",
+  "Holler out the window",
+  "Text him",
   "112121"
 );
 let scenepack112122 = new Pack(
-  "this is the content for 112122",
-  "peach",
-  "daisy",
+  "You decide not to tell him quite yet.  You're sweating. You go downstairs to grab a glass of water, but as you're pouring it, you hear the car door slam. Oh no, he's coming in.",
+  "Flee",
+  "Hold your ground",
   "112122"
 );
 let scenepack112211 = new Pack(
-  "this is the content for 112211",
-  "peach",
-  "daisy",
+  "You climb into the big duffel bag and zip it up. A few minutes go by and you can hear the sound of feet stomping around upstairs.",
+  "Stay hidden",
+  "Get out and try something else",
   "112211"
 );
 let scenepack112212 = new Pack(
-  "this is the content for 112212",
-  "peach",
-  "daisy",
+  "You slip your fingers into the crack of the coffin door. You start to pull it open, but you only get it open about 2 inches before it slams shut, catching you completely off guard and knocking you back.",
+  "Find a weapon first",
+  "Yank it open!",
   "112212"
 );
 let scenepack112221 = new Pack(
-  "this is the content for 112221",
-  "peach",
-  "daisy",
+  "Suddenly you feel the house tremble and shake. Then hours go by in complete silence. You consider that he must have left by now. You feel the house shake again. Are those <em>earthquakes</em>?!",
+  "Look out the attic window",
+  "Go back downstairs",
   "112221"
 );
 let scenepack112222 = new Pack(
-  "this is the content for 112222",
-  "peach",
-  "daisy",
+  "You scrounge around in the attic to kill some time. You come across a bin of old, dusty books. One of them is an old yearbook. One is a glowing, bound tome.",
+  "Check out the yearbook",
+  "Open the tome",
   "112222"
 );
 let scenepack121111 = new Pack(
@@ -456,99 +456,99 @@ let scenepack1112222 = new Pack(
   "1112222"
 );
 let scenepack1121111 = new Pack(
-  "this is the content for 1121111",
-  "okay",
-  "yup",
+  "You wait it out. Your dad detaches your bedroom door from its frame, accidentally knocking over a framed photo of you from the hallway nook in the process. His rage from knocking over a picture turns his eyes pure white. His gaze locks on you, and you know the only way you're about to survive this day is by fishing. <br><br> THE END",
+  "",
+  "",
   "1121111"
 );
 let scenepack1121112 = new Pack(
-  "this is the content for 1121112",
-  "okay",
-  "yup",
+  "You slip through your window onto the porch-roof, and then hop down into the driveway.  Dad's still in the house.",
+  "Run down the street",
+  "Drive the car",
   "1121112"
 );
 let scenepack1121121 = new Pack(
-  "this is the content for 1121121",
-  "okay",
-  "yup",
+  "You start to cry because you don't like being screamed at. This plan does not work. The flowing stream of tears down your cheek reminds Papa of Juniper river. He craddles you in his arms and walks you down to the riverbed where you sleep softly as he fishes. <br><br> THE END",
+  "",
+  "",
   "1121121"
 );
 let scenepack1121122 = new Pack(
-  "this is the content for 1121122",
-  "okay",
-  "yup",
+  "Really? With your bare hands you're going to try to kill him? Okay. You attempt to just.. kill him. Out of nowhere. It doesn't work. He flips you onto the carpet and puts you in a chokehold. You black out. When you wake up, guess what? You're fishing.. <br><br> THE END",
+  "",
+  "",
   "1121122"
 );
 let scenepack1121211 = new Pack(
-  "this is the content for 1121211",
-  "okay",
-  "yup",
+  "You holler down to your father that you changed your mind about fishing. His mouth becomes agape. He stops the car and gets out. You scramble to lock your bedroom door but he's too quick. In three seconds he's standing in your room, picking you up by the scruff of your neck. He says nothing all day, as he plants you in the back of his fishing boat and makes you watch him fish.<br><br>THE END",
+  "",
+  "",
   "1121211"
 );
 let scenepack1121212 = new Pack(
-  "this is the content for 1121212",
-  "okay",
-  "yup",
+  "You send him a text explaining that you're no longer feeling well. Must've been the oatmeal, you claim. He isn't pleased. 10 seconds later he' standing in your bedroom doorway chugging dry oatmeal out of the box. <em>Seems fine to me,</em> he says. He stuffs you in his big, blue fishing duffel and the next thing you see when he lets you out is Lake Rinkle.<br><br>THE END",
+  "",
+  "",
   "1121212"
 );
-let scenepack11211221 = new Pack(
-  "this is the content for 11211221",
-  "okay",
-  "yup",
+let scenepack1121221 = new Pack(
+  "You make a break for it, out the screen door into the backyard. You hear your father calling your name from inside the house. You hear furniture being toppled over as he looks everywhere for you. ",
+  "Steal car",
+  "Hide in treehouse",
   "1121221"
 );
 let scenepack1121222 = new Pack(
-  "this is the content for 1121222",
-  "okay",
-  "yup",
+  "You're 13. You don't need to be afraid to speak your mind. You stay where you are, drinking your water. Your father comes stomping through the door. You glare at him. He glares back. As you begin to open your mouth he grabs the glass of water from your hand and squeezes it until it shatters. You are stricken with fear and as he points to the car, you follow. You end up fishing until sun-down. <br><br>THE END",
+  "",
+  "",
   "1121222"
 );
 let scenepack1122111 = new Pack(
-  "this is the content for 1122111",
-  "okay",
-  "yup",
+  "You don't make a peep. You hear your dad calling out to you. Eventually you even hear him say <em>Well I guess if he's not coming, he's not doing.</em> You wipe your brow, then suddenly, you feel yourself lifted up into the air. Oh no. This is dad's fishing duffel.",
+  "Call out to him",
+  "Stay calm",
   "1122111"
 );
 let scenepack1122112 = new Pack(
-  "this is the content for 1122112",
-  "okay",
-  "yup",
+  "As you're climbing out of the duffel bag you can hear your dad calling your name. You're just getting your footing as he comes tumbling down the stairs and wipes out. You want to ask him if he's okay but it seems the fall only fueled his rage even more. He clamps his nasty hands around you and takes you out to the car where he proceeds to take you fishing. <br><br> THE END",
+  "",
+  "",
   "1122112"
 );
 let scenepack1122121 = new Pack(
-  "this is the content for 1122121",
-  "okay",
-  "yup",
+  "You look around. On your left you see a fishing pole with a bayonet attachment. On your right you see a wooden stake. ",
+  "Grab the fishing pole and open the coffin",
+  "Grab the stake and open the coffin",
   "1122121"
 );
 let scenepack1122122 = new Pack(
-  "this is the content for 1122122",
-  "okay",
-  "yup",
+  "You yank as hard as you can on the coffin door. It rips off it's hinges revealing a gruesome looking vampire. It shrieks and lunges toward you. Luckily your dad's been prepared for this day. He comes hurdling down the stares with a steak-knife in hand and stabs the vampire beast in the chest before it can harm you. <em> I was wondering when this day would come.<em> he says, laying down the knife. <em>Well, now that I've saved your life, Son... Come fishing, okay?</em> You are left with no choice but to fish. He just saved your life afterall. <br><br> THE END",
+  "",
+  "",
   "1122122"
 );
 let scenepack1122211 = new Pack(
-  "this is the content for 1122211",
-  "okay",
-  "yup",
+  "You're shocked as you look out your window to see, not your backyard, but Lake Rinkle. Your dad couldn't find you so he had the entire house uplifted and moved <em>to the lake! He's psycho!</em> There's no way you're making it to Rachel Trinton's party now... Might as well just fish. <br><br> THE END",
+  "",
+  "",
   "1122211"
 );
 let scenepack1122212 = new Pack(
-  "this is the content for 1122212",
-  "okay",
-  "yup",
+  "Enough is enough. You head downstairs to check if he's still there. You're shocked to see that your front yard is missing. Instead it's been replaced by Lake Rinkle. And you see your dad fishing from the front porch. Dear God... He had the house moved so you'd fish with him. <br><br> THE END",
+  "",
+  "",
   "1122212"
 );
 let scenepack1122221 = new Pack(
-  "this is the content for 1122221",
-  "okay",
-  "yup",
+  "You start flipping through the pages and discover that it's your parents' yearbook from their graduating year.",
+  "Read about your dad",
+  "Read about your mom",
   "1122221"
 );
 let scenepack1122222 = new Pack(
-  "this is the content for 1122222",
-  "okay",
-  "yup",
+  "You open the glowing tome. Instantly you're wrapped up in a whirlwind of otherworldly energy. You feel incredibly powerful, and a blue aura surrounds your hands. The book contains readings about two major subjects.",
+  "Read: Teleporto",
+  "Read: Shrinko",
   "1122222"
 );
 let scenepack1211111 = new Pack(
@@ -798,75 +798,87 @@ let scenepack11122222 = new Pack(
   "11122222"
 );
 let scenepack11211121 = new Pack(
-  "this is the content for 11211121",
-  "okay",
-  "yup",
+  "You try to make a run for it. But before you can even reach your property line, you're ambushed by your Dad's buddies. Eric, Dale, Steven, and Oscar. They surround you, football-huddle-style, and walk you back to your house where your dad is waiting for you. Now you have to go fishing with all of them. <br><br> THE END",
+  "",
+  "",
   "11211121"
 );
 let scenepack11211122 = new Pack(
-  "this is the content for 11211122",
-  "okay",
-  "yup",
+  "You get in the car and turn the key in the ignition. Nothing happens. Shit, he cut the fuel line. Before you can get out, your dad slaps his grubby hands and face against the windshield. <em>Fishing time little buddy. heh heh heh.</em> You're toast.<br><br> THE END",
+  "",
+  "",
   "11211122"
 );
 let scenepack11211211 = new Pack(
-  "this is the content for 11211211",
-  "okay",
-  "yup",
+  "You run around the front of the house and hop in the car. You press the button to start it up and you're on the road. Unfortunately, you're father's self-driving Tesla is programmed to drive two places, <em>Home</em> & <em>Lake Rinkle</em>. It takes you to the lake where your out-of-breathe father is doubled-over waiting for you. You're out of options now. You must fish. <br><br>THE END",
+  "",
+  "",
   "11211211"
 );
+let scenepack11212211 = new Pack(
+  "You run around the front of the house and hop in the car. You press the button to start it up and you're on the road. Unfortunately, you're father's self-driving Tesla is programmed to drive two places, <em>Home</em> & <em>Lake Rinkle</em>. It takes you to the lake where your out-of-breathe father is doubled-over waiting for you. You're out of options now. You must fish. <br><br>THE END",
+  "",
+  "",
+  "11212211"
+);
+let scenepack11212212 = new Pack(
+  "You attempt to climb up to your old treehouse, but is your hand grips the top step, it's struck by a boomerang. You look back to see your dad standing behind you, as you lose your grip and fall. ",
+  "Land on your feet",
+  "Land on your face",
+  "11212212"
+);
 let scenepack11211212 = new Pack(
-  "this is the content for 11211212",
-  "okay",
-  "yup",
+  "You attempt to climb up to your old treehouse, but is your hand grips the top step, it's struck by a boomerang. You look back to see your dad standing behind you, as you lose your grip and fall. ",
+  "Land on your feet",
+  "Land on your face",
   "11211212"
 );
 let scenepack11221111 = new Pack(
-  "this is the content for 11221111",
-  "okay",
-  "yup",
+  "You call out to your dad to let him know that you're stuck in the bag. He puts it down and lets you out. <em>Son, if you didn't want to go fishing with me, you should've just said so. What the Hell are you doing hiding in here?</em>",
+  "Apologize",
+  "Say it was just some harmless fun",
   "11221111"
 );
 let scenepack11221112 = new Pack(
-  "this is the content for 11221112",
-  "okay",
-  "yup",
+  "You feel yourself tossed onto a hard surface. You hear the sound of the car trunk latch, and you spend the next 45 minutes jiggling around  while your dad drives the car. Eventually the car stops. You hear the trunk open.",
+  "Surprise him",
+  "Stay still",
   "11221112"
 );
 let scenepack11221211 = new Pack(
-  "this is the content for 11221211",
-  "okay",
-  "yup",
+  "You slowly open the coffin, revealing a terrifying vampire! It snarls at you. Your dad comes walking down the stairs. The sound of his footsteps alert the vampire who quickly shuts the coffin. <em>Oh there you are! I see you're ready to fish. Let's go.</em> You spend the day fishing with dad and every time you try to bring up the vampire, he stops listening to you as he stops listening to you and starts humming Nosferatu by the Blue Oyster Cult.",
+  "",
+  "",
   "11221211"
 );
 let scenepack11221212 = new Pack(
-  "this is the content for 11221212",
-  "okay",
-  "yup",
+  "You open the coffin, wooden stake in hand. Out jumps a freaky dekey vampire. It tries to bite you but fails as you jam the wooden stake through it's heart, killing it instantly. Your dad comes down the stairs and sees. He claps his hands. <em> Wow! Great job son. </em> He rewards you not by taking you out for ice cream, but by making you go fishing with him, all day. <br> <br> THE END",
+  "",
+  "",
   "11221212"
 );
 let scenepack11222211 = new Pack(
-  "this is the content for 11222211",
-  "okay",
-  "yup",
+  "You flip a few pages to find your dad's page. <em>Wow!</em> He was voted most likely to go fishing with his son. You start to feel bad about your behaviour. You decide to give him this day. You head down to the car and oblige him by fishing all day. <br><br> THE END",
+  "",
+  "",
   "11222211"
 );
 let scenepack11222212 = new Pack(
-  "this is the content for 11222212",
-  "okay",
-  "yup",
+  "You flip a few pages to find your mom's page. <em>Wow!</em> She was voted most likely to raise a shite son who won't spend any quality time with his parents. You start to feel bad about your behaviour. You decide to give him this day. You head down to the car and oblige him by fishing all day... for mom's sake. <br><br> THE END",
+  "",
+  "",
   "11222212"
 );
 let scenepack11222221 = new Pack(
-  "this is the content for 11222221",
-  "okay",
-  "yup",
+  "You read the section titled <em>Teleporto</em> and instantly the blue aura encapsulates your body. You vanish, and then reappear in your father's fishing boat on Lake Rinkle. He's stunned to see you... but only for a few seconds before he's stunned by a walleye. You then fish with him until he's ready to leave. <br>br> THE END",
+  "",
+  "",
   "11222221"
 );
 let scenepack11222222 = new Pack(
-  "this is the content for 11222222",
-  "okay",
-  "yup",
+  "You read the section titled <em>Shrinko</em> and instantly the blue aura encapsulates your body. You shrink down to the size of a worm, and slip through the floorbeams onto your father's fishing hat.He then furiously goes fishing, cursing your name the entire time while you sit atop his head. Not good... <br>br> THE END",
+  "",
+  "",
   "11222222"
 );
 let scenepack12111121 = new Pack(
@@ -1038,39 +1050,51 @@ let scenepack111222112 = new Pack(
   "111222112"
 );
 let scenepack112112121 = new Pack(
-  "this is the content for 112112121",
-  "okay",
-  "yup",
+  "You land on your feet, spraining your right ankle in the process. It's no use trying to run now. Your father picks up his boomerang, licks it, and then beckons you to the car where he takes you fishing with him. <br><br> THE END",
+  "",
+  "",
   "112112121"
 );
 let scenepack112112122 = new Pack(
-  "this is the content for 112112122",
-  "okay",
-  "yup",
+  "You purposely decide to land on your face? I'm not even going to entertain that with any narrative. If these are the kinds of choices you're going to make for yourself, you don't really deserve to win the game. All I'll say is that somehow this results in you being forced to fish with your dad.  <br><br> THE END",
+  "",
+  "",
   "112112122"
 );
 let scenepack112211111 = new Pack(
-  "this is the content for 112211111",
-  "okay",
-  "yup",
+  "You apologize to your dad for your behaviour. He doesn't accept the apology. In fact he makes you go fishing with him to teach you a lesson about being forthright. <br><br> THE END",
+  "",
+  "",
   "112211111"
 );
+let scenepack112122121 = new Pack(
+  "You land on your feet, spraining your right ankle in the process. It's no use trying to run now. Your father picks up his boomerang, licks it, and then beckons you to the car where he takes you fishing with him. <br><br> THE END",
+  "",
+  "",
+  "112122121"
+);
+let scenepack112122122 = new Pack(
+  "You purposely decide to land on your face? I'm not even going to entertain that with any narrative. If these are the kinds of choices you're going to make for yourself, you don't really deserve to win the game. All I'll say is that somehow this results in you being forced to fish with your dad.  <br><br> THE END",
+  "",
+  "",
+  "112122122"
+);
 let scenepack112211112 = new Pack(
-  "this is the content for 112211112",
-  "okay",
-  "yup",
+  "Your father looks at you poignantly. It's as if the words harmless fun mean nothing to him. He says <em>I'll show you what fun is.</em> and he takes you fishing. <br><br> THE END",
+  "",
+  "",
   "112211112"
 );
 let scenepack112211121 = new Pack(
-  "this is the content for 112211121",
-  "okay",
-  "yup",
+  "Before he's able to lift up the duffel, you unzip the bag and pop out to surprise your dad. He's so excited to see that you've come along after all. You two spend the rest of the day fishing joyfully, which sucks. <br><br> THE END",
+  "",
+  "",
   "112211121"
 );
 let scenepack112211122 = new Pack(
-  "this is the content for 112211122",
-  "okay",
-  "yup",
+  "You decide it's still not time to make a move. You fall asleep.  You're awaken 8 minutes later in your dad's fishing boat when he unzips the bag and finds you inside. <em> Son? What the Hell are you doing in here?! </em> You really have no choice but to fish with him now. Nice going...<br><br> THE END",
+  "",
+  "",
   "112211122"
 );
 let scenepack121111211 = new Pack(
@@ -1331,6 +1355,8 @@ const allPacks = [
   scenepack11211122,
   scenepack11211211,
   scenepack11211212,
+  scenepack11212211,
+  scenepack11212212,
   scenepack11221111,
   scenepack11221112,
   scenepack11221211,
@@ -1369,6 +1395,8 @@ const allPacks = [
   scenepack111222112,
   scenepack112112121,
   scenepack112112122,
+  scenepack112122121,
+  scenepack112122122,
   scenepack112211111,
   scenepack112211112,
   scenepack112211121,
@@ -1498,4 +1526,13 @@ function progressRight() {
   inputText(packSwitcher);
   inputB1(packSwitcher);
   inputB2(packSwitcher);
+}
+
+if (
+  document.getElementById("choice1").innerHTML == "" ||
+  document.getElementById("choice2").innerHTML == ""
+) {
+  console.log("Game Over");
+} else {
+  console.log("Keep Going");
 }
