@@ -8,7 +8,7 @@ class Pack {
 }
 
 let scenepack1 = new Pack(
-  "It's the first day of Summer.<br>You just finished Grade 8 and<br>you can't wait to start the summer<br>off right by going to Rachel Trinton's Epic Pool Party.<br>You wake up and head downstairs.<br>The plan is to spend the day at<br>Malcolm's before heading to the <br>big party.",
+  "It's the first day of Summer.<br>You just finished Grade 8 and<br>you can't wait to start the summer<br>off right by going to Rachel Trinton's Epic Pool Party.<br>You wake up and head downstairs.<br>You're going to spend the day at<br>Malcolm's before heading to the <br>big party.",
   "Eat Breakfast",
   "Skip Breakfast",
   "1"
@@ -20,7 +20,7 @@ let scenepack11 = new Pack(
   "11"
 );
 let scenepack12 = new Pack(
-  "You decide to skip breakfast so you can get to Malcolm's sooner. As you're heading out the door, you notice the car's running. You see your dad loading fishing gear into the trunk.<em>Oh hey Sport! You're coming fishing today? Great! I've got your gear right here. You should really go get your fishing hat though. Sun's hot today!</em>",
+  "You decide to skip breakfast so that you can get over to Malcolm's house sooner. As you're heading out the door, you see the car's running. Your dad is loading fishing gear into the trunk.<em>Oh hey Sport! You're coming with today? Great! I've got your gear right here. You should really go get your fishing hat though. Sun's hot today!</em>",
   "Tell him you have other plans",
   "Agree to go fishing",
   "12"
@@ -162,7 +162,7 @@ let scenepack12121 = new Pack(
   "12121"
 );
 let scenepack12122 = new Pack(
-  "You bolt across the street and through Old Man Georgio's backyard, hopping the fence and continuing your tear onto Poplar Street. You hear the roar of an engine, and your father's echoed cries, <em>I'm going to find you son! It's FISHING DAY!</em>",
+  "You bolt across the street and through Old Man Georgio's backyard, hopping the fence and continuing your tear onto Poplar Street. You hear the roar of an engine, and your father's echoed cries, <em>I'm going to find you son! It's FISHING DAY! <strong>MUAHAHAHAHA!</strong></em>",
   "Head West",
   "Head East",
   "12122"
@@ -288,51 +288,51 @@ let scenepack112222 = new Pack(
   "112222"
 );
 let scenepack121111 = new Pack(
-  "<em>That's my boy. I knew you'd like it. We just mesh, you know? A father and son couldn't possibly have more in common than us. </em> He starts to repeat the same Allman Brothers song over and over again. This continues for 90 minutes.",
-  "Smile",
-  "Frown",
+  "this is the content for 121111",
+  "okay",
+  "yup",
   "121111"
 );
 let scenepack121112 = new Pack(
-  "You hate the music. You tell your Dad that it sucks. He pulls the car over to the side of the road.",
-  "Pretend you were joking",
-  "Double down",
+  "this is the content for 121112",
+  "okay",
+  "yup",
   "121112"
 );
 let scenepack121121 = new Pack(
-  "You grab the tackle box. It's heavy, but you manage to carry it all the way down to the dock. Your dad smiles and reaches out with his hands.",
-  "Hand it to him",
-  "Throw it and run",
+  "this is the content for 121121",
+  "okay",
+  "yup",
   "121121"
 );
 let scenepack121122 = new Pack(
-  "You scrounge around in the trunk looking for something that may help you get out of this mess. The only other things you see is a case of empty beer bottles and a large emergency blanket.",
-  "Grab a beer bottle",
-  "Grab the blanket",
+  "this is the content for 121122",
+  "okay",
+  "yup",
   "121122"
 );
 let scenepack121211 = new Pack(
-  "You attempt to jump over the stroller. With a running leap you make your move, soaring overtop of the giggling baby, but as you soar, you lose your balance and your right foot gets caught in the stroller, knocking over the tiny bucket of chum that the baby was holding. The chum slooshes all over the ground and when you land you slip in it and FALL ON YOUR ASS.",
-  "Apologize to the baby",
-  "Roll away",
+  "this is the content for 121211",
+  "okay",
+  "yup",
   "121211"
 );
 let scenepack121212 = new Pack(
-  "You stop. There's no sense trying to jump over this tiny little baby. You'll just end up getting yourself into more trouble. You turn around to see your gun-weilding father approaching. <em>DAD WHAT THE FUCK?!</em> you scream. <em>Oh sorry</em>, he responds. <em>I didn't think you were going to give in so I pulled out my gun.</em> He wraps his nasty fingers around your shoulders and leads you back to the car and proceeds to take you fishing.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 121212",
+  "okay",
+  "yup",
   "121212"
 );
 let scenepack121221 = new Pack(
-  "Exhausted, you clamber over the fence to your left. As you drop from the fence, you see balloons everywhere, and a table set up with drinks and snacks. You hear girls chatting inside through the screen door and there's an older woman cleaning the pool. She see's you. Oh no. This is Rachel's house. That's Mrs. Trinton.",
-  "Say Hello",
-  "Hide in Pool",
+  "this is the content for 121221",
+  "okay",
+  "yup",
   "121221"
 );
 let scenepack121222 = new Pack(
-  "You hop the fence to your right. You land steadily on your feet. You feel adrenaline shooting through your veins. You look up to see an EVIL DOG staring at you, growling and grumbling.",
-  "Climb back over the fence",
-  "Juke it!",
+  "this is the content for 121222",
+  "okay",
+  "yup",
   "121222"
 );
 let scenepack122111 = new Pack(
@@ -491,11 +491,11 @@ let scenepack1121212 = new Pack(
   "yup",
   "1121212"
 );
-let scenepack11211221 = new Pack(
-  "this is the content for 11211221",
+let scenepack1121121 = new Pack(
+  "this is the content for 1121121",
   "okay",
   "yup",
-  "1121221"
+  "1121121"
 );
 let scenepack1121222 = new Pack(
   "this is the content for 1121222",
@@ -552,87 +552,87 @@ let scenepack1122222 = new Pack(
   "1122222"
 );
 let scenepack1211111 = new Pack(
-  "Your dad smiles back at you. He continues the drive to the lake, and the two of you spend the afternoon catching Walleye!<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1211111",
+  "okay",
+  "yup",
   "1211111"
 );
 let scenepack1211112 = new Pack(
-  "Your frown is pungent. So pungent in fact that your dad slams on the brakes. <em>Son, what's wrong? Are you not having a good time?</em> He looks at you with weepy eyes.",
-  "Admit that you don't actually want to go fishing with him.",
-  "Tell him you're fine",
+  "this is the content for 1211112",
+  "okay",
+  "yup",
   "1211112"
 );
 let scenepack1211121 = new Pack(
-  "You tell your dad that you were just kidding. He stares at you for a while as if what you just said didn't register at all. He then asks you who your favorite artist is.",
-  "Say Maroon 5",
-  "Say Lonestar",
+  "this is the content for 1211121",
+  "okay",
+  "yup",
   "1211121"
 );
 let scenepack1211122 = new Pack(
-  "You go even further to say that anyone who listens to this music must be a fucking loser. Your dad loses his mind.<em> You little shit, I knew you didn't want to come fishing today. I'm not fooled by your little mind games. And just for that comment, I'm making sure you have no choice but to FISH ALL DAY.</em> He engages the child lock and takes you fishing.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1211122",
+  "okay",
+  "yup",
   "1211122"
 );
 let scenepack1211211 = new Pack(
-  "You hand your father the tackle box. He says <em> Yippee! Let's catch some walleye!</em> He coaxes you into the boat and you fish with him until dusk.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1211211",
+  "okay",
+  "yup",
   "1211211"
 );
 let scenepack1211212 = new Pack(
-  "You toss the tackle box and run. It splooshes into the lake. Your dad's head turns beet red and emboldens to the size of a great pumpkin. His arm stretches out much like Mr. Fantastic and grabs you by the back of the neck. He slams you into the back of the fishing boat.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1211212",
+  "okay",
+  "yup",
   "1211212"
 );
 let scenepack1211221 = new Pack(
-  "As soon as you pick up the bottle, your father slaps it out of your hand. <em> That was a test. You're 13. Don't even think about it.</em> He then takes you down to the dock and his constant state of anger gives you no choice but to fish with him.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1211221",
+  "okay",
+  "yup",
   "1211221"
 );
 let scenepack1211222 = new Pack(
-  "You grab the big emergency blanket. An escape plan is hatched in your brain, albeit a bit extreme. You decide to",
-  "Bring the blanket down to the dock",
-  "Sprint into the woods",
+  "this is the content for 1211222",
+  "okay",
+  "yup",
   "1211222"
 );
 let scenepack1212111 = new Pack(
-  "You tell the baby that you're so sorry but it doesn't accept your apology and starts to cry. The mother slaps you and grabs you by your shirt collar. <em>You little shit.</em> she says, <em>I should kill you right here on the spot.</em> As she says that, your dad arrives in a huff. <em>Sorry about him. He's my son. We were just going fishing.</em> Your father gets his nasty hands on you and leads you to the car. Fishing ensues. <br><br>THE END",
-  "",
-  "",
+  "this is the content for 1212111",
+  "okay",
+  "yup",
   "1212111"
 );
 let scenepack1212112 = new Pack(
-  "You try to roll away but the current of the chum is far too strong. It combines with the river of chum you spilled in your own driveway and your attempted roll sends you slipping straight into the nasty hands of your fish-loving father.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1212112",
+  "okay",
+  "yup",
   "1212112"
 );
 let scenepack1212211 = new Pack(
-  "You say Hello to Mrs. Trinton. She nods back, and then wags her finger at you. <em>You are far too early for this pool party. This behaviour just will not do.</em> She grabs you by the lobe of your ear and pulls you to the front curb. As if they were working together, your dad pulls up seconds later. <em>You little shit. You're coming fishing with your dad. NOW!</em><br><br>THE END",
-  "",
-  "",
+  "this is the content for 1212211",
+  "okay",
+  "yup",
   "1212211"
 );
 let scenepack1212212 = new Pack(
-  "Stupidly, you try to hide by diving into the pool. Mrs. Trinton waits for you to run out of breathe and surface. <em>Get OUT!!! NOW!!!</em> As you get out of the pool she nabs you by the lobe of your ear and pulls you out to the front curb. As if they were working together, your dad pulls up seconds later. <em>You little shit. You're coming fishing with your dad. NOW!</em><br><br>THE END",
-  "",
-  "",
+  "this is the content for 1212212",
+  "okay",
+  "yup",
   "1212212"
 );
 let scenepack1212221 = new Pack(
-  "You stumble backwards towards the fence. You turn around and grip the top of the wooden slats with your trembling fingers. The dog lunges at you fiercely, but only manages to bite your jeans and rip them clean off, as you tumble over the fence. You piss yourself like crazy. And as you fall to safety, you land in the arms of your caring Dad, who only ever wanted the best for you. He loves you, and he just wants to enjoy the nice weather as father and son. He takes you fishing, and you spend the day fishing in piss-wet boxers.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1212221",
+  "okay",
+  "yup",
   "1212221"
 );
 let scenepack1212222 = new Pack(
-  "You attempt to slip past the evil dog. You move slightly to the left before deking quickly to the right. The dog is not fooled. It bites your arm off! Seriously! Yupp! It bites off your arm and starts knawing on it! Oh no! You scream for help and luckily your father's familial hearing leads him directly to you. He puts some ice on it and makes you go fishing with him.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 1212222",
+  "okay",
+  "yup",
   "1212222"
 );
 let scenepack1221111 = new Pack(
@@ -870,39 +870,39 @@ let scenepack11222222 = new Pack(
   "11222222"
 );
 let scenepack12111121 = new Pack(
-  "You finally break it to your dad that you don't want to go fishing with him. He stares blankly at you for a while, and then begins to cry.",
-  "Cheer him up",
-  "Sit in silence",
+  "this is the content for 12111121",
+  "okay",
+  "yup",
   "12111121"
 );
 let scenepack12111122 = new Pack(
-  "Well you really fucked up this playthrough. I mean I can only throw you so many bones. You've simply done everything in your power to just go fishing with your dad.  And that's exactly what happens next. You grit your teeth and bare it as you spend the day fishing.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 12111122",
+  "okay",
+  "yup",
   "12111122"
 );
 let scenepack12111211 = new Pack(
-  "Your dad screams at the top of his lungs. He then pulls back onto the road and takes you fishing, trying to explain to you what music used to be like the <em>entire</em> time.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 12111211",
+  "okay",
+  "yup",
   "12111211"
 );
 let scenepack12111212 = new Pack(
-  "Your dad smiles and pats the top of your head. You spend the rest of the day fishing with him, while he whistles the tune to <em>I'm Already There</em>.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 12111212",
+  "okay",
+  "yup",
   "12111212"
 );
 let scenepack12112221 = new Pack(
-  "You take the blanket down to the dock. Your dad looks at you and says, <em>What the frick is that for? I told you to get the tackle box. Are you stupid?</em>",
-  "Throw it over him",
-  "Float away using blanket as a raft",
+  "this is the content for 12112221",
+  "okay",
+  "yup",
   "12112221"
 );
 let scenepack12112222 = new Pack(
-  "You sprint as fast as you can into the woods. Your dad didn't even see you leave! Thanks to the blanket, you're able to survive the cold nights as several days pass while you're out there. After about a week, you're awaken by a coastguard who finds you sleeping in a grassy knoll.",
-  "Go with him",
-  "Flee",
+  "this is the content for 12112222",
+  "okay",
+  "yup",
   "12112222"
 );
 let scenepack12211111 = new Pack(
@@ -1074,39 +1074,39 @@ let scenepack112211122 = new Pack(
   "112211122"
 );
 let scenepack121111211 = new Pack(
-  "You tell your dad that it's nothing personal. You just had some other things you wanted to do today, on your first day of summer vacation. He wipes his tears and nods. <em> I wish you would've told me sooner son. I used to be just like you when I was your age. Well, it's too late now. We're almost there. </em> He takes you to the lake and you have no choice but to oblige your weeping dad by fishing. <br><br>THE END",
-  "",
-  "",
+  "this is the content for 121111211",
+  "okay",
+  "yup",
   "121111211"
 );
 let scenepack121111212 = new Pack(
-  "You sit in silence while your dad cries and cries and cries. Eventually he scrubs the tears from his face with his sweater. He then says, <em> Too late to turn back now. Fish'll be jumping by now.</em> He takes you fishing anyways and you have no choice but to oblige your sniffling father.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 121111212",
+  "okay",
+  "yup",
   "121111212"
 );
 let scenepack121122211 = new Pack(
-  "You throw the blanket over his head, effectively trapping him. You then attempt to steal the fishing boat and escape. Sadly, the boat needs keys to start and they're in his pocket. Before you're able to get them from him, he escapes the weighted blanket and screams at you for four hours. He then makes you fish with him and you catch two walleyes.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 121122211",
+  "okay",
+  "yup",
   "121122211"
 );
 let scenepack121122212 = new Pack(
-  "You unfold the blanket and toss it into the water to use as an escape raft. It sinks instantly and your dad gets incredibly pissed off. <em>ARGHHH!</em> he doesn't say anything nice to you for the rest of the day, and your extreme embarrassment forces you to abide and fish with him.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 121122212",
+  "okay",
+  "yup",
   "121122212"
 );
 let scenepack121122221 = new Pack(
-  "You figure by now your family will be so concerned for your safety that they'll have forgotten about fishing altogether. How wrong you'd be. When the coastguard brings you back to the park entrance, your dad is still waiting to go fishing. You don't have the strength to resist. You fish.<br><br>THE END",
-  "",
-  "",
+  "this is the content for 121122221",
+  "okay",
+  "yup",
   "121122221"
 );
 let scenepack121122222 = new Pack(
-  "You attempt to run from the coast guard. You toss a branch in his direction and flee. The coastguard trips over an exposed root and the branch impales him, killing him instantly.  You can't believe it, <em>you've murdered someone?</em> You return to the park entrance where you see your dad still waiting to go fishing. You fish with him so as to avoid any unwanted attention<br><br>THE END",
-  "",
-  "",
+  "this is the content for 121122222",
+  "okay",
+  "yup",
   "121122222"
 );
 let scenepack122111111 = new Pack(
@@ -1394,108 +1394,3 @@ const allPacks = [
   scenepack122222211,
   scenepack122222212,
 ];
-
-let packSwitcher = scenepack1;
-
-var buttonL = document.getElementById("choice1");
-var buttonR = document.getElementById("choice2");
-var tagline = document.getElementById("tagline");
-
-function choiceButtonShow() {
-  buttonL.style.visibility = "visible";
-  buttonR.style.visibility = "visible";
-  tagline.style.visibility = "hidden";
-}
-
-function inputText(result) {
-  let dialoguer = document.getElementById("gametext");
-  return (dialoguer.innerHTML = result.text);
-}
-
-function inputB1(result) {
-  let dialoguer = document.getElementById("choice1text");
-  return (dialoguer.innerHTML = result.b1);
-}
-
-function inputB2(result) {
-  let dialoguer = document.getElementById("choice2text");
-  return (dialoguer.innerHTML = result.b2);
-}
-
-function restartButton() {
-  let dialoguer = document.getElementById("reButton");
-  return (dialoguer.innerHTML = "Restart Game");
-}
-
-function removeFish() {
-  var elementf = document.getElementById("fishy");
-  elementf.parentNode.removeChild(elementf);
-}
-
-function beginGame(scenepack) {
-  inputText(scenepack);
-  inputB1(scenepack);
-  inputB2(scenepack);
-  choiceButtonShow();
-  removeFish();
-  restartButton();
-}
-
-function restartPage() {
-  let a = document.getElementById("reButton").innerHTML;
-  if (a === "Restart Game") {
-    location.reload();
-    return false;
-  } else {
-    beginGame(scenepack1);
-  }
-}
-
-// this function takes a scenepack
-// and outputs as a string with "1" tacked on.
-
-let funcL = function (scenepack) {
-  return `${scenepack.index}` + "1";
-};
-
-function getByValue(arr, value) {
-  for (var i = 0, iLen = arr.length; i < iLen; i++) {
-    if (arr[i].index == value) return arr[i];
-  }
-}
-
-function leftJump() {
-  let pack = packSwitcher;
-  var newVal = funcL(pack);
-  packSwitcher = getByValue(allPacks, newVal);
-  return packSwitcher;
-}
-
-function progressLeft() {
-  leftJump();
-  inputText(packSwitcher);
-  inputB1(packSwitcher);
-  inputB2(packSwitcher);
-}
-
-// this function takes a scenepack
-// and outputs as a string with "1" tacked on
-// the end if the param pack's index ends in 1.
-
-let funcR = function (scenepack) {
-  return `${scenepack.index}` + "2";
-};
-
-function rightJump() {
-  let pack = packSwitcher;
-  var newVal = funcR(pack);
-  packSwitcher = getByValue(allPacks, newVal);
-  return packSwitcher;
-}
-
-function progressRight() {
-  rightJump();
-  inputText(packSwitcher);
-  inputB1(packSwitcher);
-  inputB2(packSwitcher);
-}
