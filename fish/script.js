@@ -8,7 +8,7 @@ class Pack {
 }
 
 let scenepack1 = new Pack(
-  "It's the first day of Summer.<br>You just finished Grade 8 and<br>you can't wait to start the summer<br>off right by going to Rachel Trinton's Epic Pool Party.<br>You wake up and head downstairs.",
+  "It's the first day of Summer.<br>You just finished Grade 8 and you can't wait to start the summer off right by going to Rachel Trinton's Epic Pool Party.<br>You wake up and head downstairs.",
   "Eat Breakfast",
   "Skip Breakfast",
   "1"
@@ -876,7 +876,7 @@ let scenepack11222221 = new Pack(
   "11222221"
 );
 let scenepack11222222 = new Pack(
-  "You read the section titled <em>Shrinko</em> and instantly the blue aura encapsulates your body. You shrink down to the size of a worm, and slip through the floorbeams onto your father's fishing hat.He then furiously goes fishing, cursing your name the entire time while you sit atop his head. Not good... <br>br> THE END",
+  "You read the section titled <em>Shrinko</em> and instantly the blue aura encapsulates your body. You shrink down to the size of a worm, and slip through the floorbeams onto your father's fishing hat.He then furiously goes fishing, cursing your name the entire time while you sit atop his head. Not good... <br><br> THE END",
   "",
   "",
   "11222222"
@@ -1301,6 +1301,7 @@ const allPacks = [
   scenepack1121211,
   scenepack1121212,
   scenepack1121121,
+  scenepack1121221,
   scenepack1121222,
   scenepack1122111,
   scenepack1122112,
