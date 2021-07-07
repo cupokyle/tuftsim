@@ -26,9 +26,9 @@ let scenepack12 = new Pack(
   "12"
 );
 let scenepack111 = new Pack(
-  "Harry sees your text but doesn't respond. You get up and start getting dressed. You hate fishing. You'd do anything to get out of going fishing with your dad. You think about what you'll say to him when you go back downstairs. </em>",
-  "Throw on your normal clothes.",
-  "Search the closet for fishing garb.",
+  "You walk out the front door to see your father loading a full box of Kool-Aid Jammers into the car. <em>Oh hey son, ready to roll? Fish ain't gonna catch themselves haha. Packed your favorite flavor. Red.</em> ",
+  "<em>Yeah sure dad, that sounds great.</em>",
+  "<em>Actually, I don't really feel like fishing.</em>",
   "111"
 );
 let scenepack112 = new Pack(
@@ -588,7 +588,7 @@ let scenepack1211212 = new Pack(
   "1211212"
 );
 let scenepack1211221 = new Pack(
-  "As soon as you pick up the bottle, your father slaps it out of your hand. <em> That was a test. You're 13. Don't even think about it.</em> He then takes you down to the dock and his constant state of anger gives you no choice but to fish with him.<br><br>THE END",
+  "As soon as you pick up the bottle, your father slaps it out of your hand. <em> That was a test. You're 13. Don't even think about it.</em> He then takes you down to the dock and his overbearing state of anger gives you no choice but to fish with him.<br><br>THE END",
   "",
   "",
   "1211221"
