@@ -44,7 +44,7 @@ let scenepack121 = new Pack(
   "121"
 );
 let scenepack122 = new Pack(
-  "mario yoshi",
+  "this is the content for 122",
   "Content Not Complete",
   "Content Not Complete",
   "122"
