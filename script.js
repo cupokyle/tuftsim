@@ -83,7 +83,7 @@ let scenepack1211 = new Pack(
   "1211"
 );
 let scenepack1212 = new Pack(
-  "You try to make a break for it. You slip past your Dad in the driveway, knocking over the bucket of chum in his left hand. <em><strong>FUCK!!!</strong></em> he screams as his chum slooshes into the gutter. He chases after you.",
+  "You try to make a break for it. You slip past your Dad in the driveway, knocking over the bucket of chum in his left hand. <em><strong>WHAT THE!!!</strong></em> he screams as his chum slooshes into the gutter. He chases after you.",
   "Run down the sidewalk",
   "Hurdle through yards",
   "1212"
@@ -137,7 +137,7 @@ let scenepack11212 = new Pack(
   "11212"
 );
 let scenepack11221 = new Pack(
-  "You scamper down into the basement. It's just one big-ass room full of random storage. On your left you see a large navy blue duffel bag you could hide in. On your right... what? There's a full-sized wooden coffin leaning against the wall.",
+  "You scamper down into the basement. It's just one big room full of random storage. On your left you see a large navy blue duffel bag you could hide in. On your right... what? There's a full-sized wooden coffin leaning against the wall.",
   "Hide in the duffel",
   "Open the coffin",
   "11221"
@@ -161,7 +161,7 @@ let scenepack12112 = new Pack(
   "12112"
 );
 let scenepack12121 = new Pack(
-  "Not the most athletic middle-aged man, your Dad chases after you huffing, <em>You little shit! I'm going to get you! If I have to force you to fish with me, <strong>I fucking will!</strong></em> As you pass a hedge a woman with a baby stroller steps out right in front of you.",
+  "Not the most athletic middle-aged man, your Dad chases after you huffing, <em>You little runt! I'm going to get you! If I have to force you to fish with me, <strong>I freaking will!</strong></em> As you pass a hedge a woman with a baby stroller steps out right in front of you.",
   "Jump it!",
   "Stop!",
   "12121"
@@ -251,7 +251,7 @@ let scenepack112111 = new Pack(
   "112111"
 );
 let scenepack112112 = new Pack(
-  "You open the door to a flurry of droll-smattering screams, <em>WHAT TOOK YOU SO LONG?! IT'S ALMOST NOON! LET'S FUCKING GO!</em>",
+  "You open the door to a flurry of droll-smattering screams, <em>WHAT TOOK YOU SO LONG?! IT'S ALMOST NOON! LET'S FREAKIN' GO!</em>",
   "Cry",
   "Kill him",
   "112112"
@@ -317,13 +317,13 @@ let scenepack121122 = new Pack(
   "121122"
 );
 let scenepack121211 = new Pack(
-  "You attempt to jump over the stroller. With a running leap you make your move, soaring overtop of the giggling baby, but as you soar, you lose your balance and your right foot gets caught in the stroller, knocking over the tiny bucket of chum that the baby was holding. The chum slooshes all over the ground and when you land you slip in it and FALL ON YOUR ASS.",
+  "You attempt to jump over the stroller. With a running leap you make your move, soaring overtop of the giggling baby, but as you soar, you lose your balance and your right foot gets caught in the stroller, knocking over the tiny bucket of chum that the baby was holding. The chum slooshes all over the ground and when you land you slip in it and FALL ON YOUR BUTT.",
   "Apologize to the baby",
   "Roll away",
   "121211"
 );
 let scenepack121212 = new Pack(
-  "You stop. There's no sense trying to jump over this tiny little baby. You'll just end up getting yourself into more trouble. You turn around to see your gun-weilding father approaching. <em>DAD WHAT THE FUCK?!</em> you scream. <em>Oh sorry</em>, he responds. <em>I didn't think you were going to give in so I pulled out my gun.</em> He wraps his nasty fingers around your shoulders and leads you back to the car and proceeds to take you fishing.<br><br>THE END",
+  "You stop. There's no sense trying to jump over this tiny little baby. You'll just end up getting yourself into more trouble. You turn around to see your gun-weilding father approaching. <em>DAD WHAT THE..?!</em> you scream. <em>Oh sorry</em>, he responds. <em>I didn't think you were going to give in so I pulled out my gun.</em> He wraps his nasty fingers around your shoulders and leads you back to the car and proceeds to take you fishing.<br><br>THE END",
   "",
   "",
   "121212"
@@ -575,7 +575,7 @@ let scenepack1211121 = new Pack(
   "1211121"
 );
 let scenepack1211122 = new Pack(
-  "You go even further to say that anyone who listens to this music must be a fucking loser. Your dad loses his mind.<em> You little shit, I knew you didn't want to come fishing today. I'm not fooled by your little mind games. And just for that comment, I'm making sure you have no choice but to FISH ALL DAY.</em> He engages the child lock and takes you fishing.<br><br>THE END",
+  "You go even further to say that anyone who listens to this music must be a freaking loser. Your dad loses his mind.<em> You little runt, I knew you didn't want to come fishing today. I'm not fooled by your little mind games. And just for that comment, I'm making sure you have no choice but to FISH ALL DAY.</em> He engages the child lock and takes you fishing.<br><br>THE END",
   "",
   "",
   "1211122"
@@ -605,7 +605,7 @@ let scenepack1211222 = new Pack(
   "1211222"
 );
 let scenepack1212111 = new Pack(
-  "You tell the baby that you're so sorry but it doesn't accept your apology and starts to cry. The mother slaps you and grabs you by your shirt collar. <em>You little shit.</em> she says, <em>I should kill you right here on the spot.</em> As she says that, your dad arrives in a huff. <em>Sorry about him. He's my son. We were just going fishing.</em> Your father gets his nasty hands on you and leads you to the car. Fishing ensues. <br><br>THE END",
+  "You tell the baby that you're so sorry but it doesn't accept your apology and starts to cry. The mother slaps you and grabs you by your shirt collar. <em>You little brat.</em> she says, <em>I should kill you right here on the spot.</em> As she says that, your dad arrives in a huff. <em>Sorry about him. He's my son. We were just going fishing.</em> Your father gets his nasty hands on you and leads you to the car. Fishing ensues. <br><br>THE END",
   "",
   "",
   "1212111"
@@ -617,19 +617,19 @@ let scenepack1212112 = new Pack(
   "1212112"
 );
 let scenepack1212211 = new Pack(
-  "You say Hello to Mrs. Trinton. She nods back, and then wags her finger at you. <em>You are far too early for this pool party. This behaviour just will not do.</em> She grabs you by the lobe of your ear and pulls you to the front curb. As if they were working together, your dad pulls up seconds later. <em>You little shit. You're coming fishing with your dad. NOW!</em><br><br>THE END",
+  "You say Hello to Mrs. Trinton. She nods back, and then wags her finger at you. <em>You are far too early for this pool party. This behaviour just will not do.</em> She grabs you by the lobe of your ear and pulls you to the front curb. As if they were working together, your dad pulls up seconds later. <em>You little brat. You're coming fishing with your dad. NOW!</em><br><br>THE END",
   "",
   "",
   "1212211"
 );
 let scenepack1212212 = new Pack(
-  "Stupidly, you try to hide by diving into the pool. Mrs. Trinton waits for you to run out of breathe and surface. <em>Get OUT!!! NOW!!!</em> As you get out of the pool she nabs you by the lobe of your ear and pulls you out to the front curb. As if they were working together, your dad pulls up seconds later. <em>You little shit. You're coming fishing with your dad. NOW!</em><br><br>THE END",
+  "Stupidly, you try to hide by diving into the pool. Mrs. Trinton waits for you to run out of breathe and surface. <em>Get OUT!!! NOW!!!</em> As you get out of the pool she nabs you by the lobe of your ear and pulls you out to the front curb. As if they were working together, your dad pulls up seconds later. <em>You little brat. You're coming fishing with your dad. NOW!</em><br><br>THE END",
   "",
   "",
   "1212212"
 );
 let scenepack1212221 = new Pack(
-  "You stumble backwards towards the fence. You turn around and grip the top of the wooden slats with your trembling fingers. The dog lunges at you fiercely, but only manages to bite your jeans and rip them clean off, as you tumble over the fence. You piss yourself like crazy. And as you fall to safety, you land in the arms of your caring Dad, who only ever wanted the best for you. He loves you, and he just wants to enjoy the nice weather as father and son. He takes you fishing, and you spend the day fishing in piss-wet boxers.<br><br>THE END",
+  "You stumble backwards towards the fence. You turn around and grip the top of the wooden slats with your trembling fingers. The dog lunges at you fiercely, but only manages to bite your jeans and rip them clean off, as you tumble over the fence. You pee yourself like crazy. And as you fall to safety, you land in the arms of your caring Dad, who only ever wanted the best for you. He loves you, and he just wants to enjoy the nice weather as father and son. He takes you fishing, and you spend the day fishing in pee-wet boxers.<br><br>THE END",
   "",
   "",
   "1212221"
@@ -809,7 +809,7 @@ let scenepack11211121 = new Pack(
   "11211121"
 );
 let scenepack11211122 = new Pack(
-  "You get in the car and turn the key in the ignition. Nothing happens. Shit, he cut the fuel line. Before you can get out, your dad slaps his grubby hands and face against the windshield. <em>Fishing time little buddy. heh heh heh.</em> You're toast.<br><br> THE END",
+  "You get in the car and turn the key in the ignition. Nothing happens. Crap, he cut the fuel line. Before you can get out, your dad slaps his grubby hands and face against the windshield. <em>Fishing time little buddy. heh heh heh.</em> You're toast.<br><br> THE END",
   "",
   "",
   "11211122"
@@ -869,7 +869,7 @@ let scenepack11222211 = new Pack(
   "11222211"
 );
 let scenepack11222212 = new Pack(
-  "You flip a few pages to find your mom's page. <em>Wow!</em> She was voted most likely to raise a shite son who won't spend any quality time with his parents. You start to feel bad about your behaviour. You decide to give him this day. You head down to the car and oblige him by fishing all day... for mom's sake. <br><br> THE END",
+  "You flip a few pages to find your mom's page. <em>Wow!</em> She was voted most likely to raise a bratty son who won't spend any quality time with his parents. You start to feel bad about your behaviour. You decide to give him this day. You head down to the car and oblige him by fishing all day... for mom's sake. <br><br> THE END",
   "",
   "",
   "11222212"
@@ -1121,7 +1121,7 @@ let scenepack121122211 = new Pack(
   "121122211"
 );
 let scenepack121122212 = new Pack(
-  "You unfold the blanket and toss it into the water to use as an escape raft. It sinks instantly and your dad gets incredibly pissed off. <em>ARGHHH!</em> he doesn't say anything nice to you for the rest of the day, and your extreme embarrassment forces you to abide and fish with him.<br><br>THE END",
+  "You unfold the blanket and toss it into the water to use as an escape raft. It sinks instantly and your dad gets incredibly angry. <em>ARGHHH!</em> he doesn't say anything nice to you for the rest of the day, and your extreme embarrassment forces you to abide and fish with him.<br><br>THE END",
   "",
   "",
   "121122212"

@@ -45,6 +45,19 @@ body {
   color: whitesmoke;
   align-self: center;
 }
+@media screen and (min-width:500px){
+  .gamebox{
+    width: 500px;
+    height: 500px;
+  }
+  .borderBox {
+    width: 900px;
+    height: 600px;
+  }
+  footer, #tagline{
+    width: 900px;
+  }
+}
 
 .gameContent {
   font-family: "Overpass Mono", monospace;
