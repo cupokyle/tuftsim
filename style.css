@@ -3,6 +3,9 @@
 
 body {
   background-color: blanchedalmond;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .borderBox {
@@ -18,6 +21,7 @@ body {
 .titleItems {
   align-self: center;
   text-align: center;
+  margin: 10px;
 }
 
 .gametitle {
